@@ -3,22 +3,6 @@
 授賞式参加条件
 試験A、試験Bのどちらかに合格
 またはその両方
-
-int main(){
-    int SikenA;
-    int SikenB;
-
-    if(SikenA == 0){
-        cout << "参加できます";
-    }
-    else
-    if(SikenA == 1){
-        cout << "参加できません";
-    }
-    else
-        cout << "正しい値を入力して下さい";
-    return 0;
-}
 */
 #include <iostream>
 #include <string>
